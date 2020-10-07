@@ -1,7 +1,7 @@
 # Tarea Número 01
 ## Sensores y Actuadores
 ## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+### Juan Mnauel Hernández Hernández
 
 En esta sección se encuentra lo relacionado con Sensores:
 1. Definición
