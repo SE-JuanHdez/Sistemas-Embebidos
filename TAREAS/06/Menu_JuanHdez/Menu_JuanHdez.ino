@@ -13,7 +13,7 @@ SimpleDHT11 dht11(pinDHT11);
 // *********************************************************************
 // Configuraciones:
 // *********************************************************************
-// Esta Linea de código se habilita para placas distintas a Arduino.
+// Esta Linea de código se habilita para plsacas distintas a Arduino.
 // Por ejemplo para ESP, STM, SAM o cualquier otra.
 
 //#define _LCDML_cfg_use_ram 
