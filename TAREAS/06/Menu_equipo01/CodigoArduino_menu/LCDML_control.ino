@@ -26,7 +26,7 @@
 // (7) Control sobre I2C PCF8574
 // *********************************************************************
 
-#define _LCDML_CONTROL_cfg      3
+#define _LCDML_CONTROL_cfg      2
 
 // theory:
 // "#if" es una directiva de preprocesador y no hay error, mira aquí:
