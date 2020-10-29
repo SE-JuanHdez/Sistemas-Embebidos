@@ -1,20 +1,8 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 06
+## Menú
+## Código/ simulación / presentación en físico 
+### Juan Manuel Hernández Hernández / Equipo 01
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+Creación de un menú por equipo.
+En este caso se utilizó un encoder rotativo, una LCD con un módulo I2c, un módulo dhtc11 y un LED.
+En la simulación en Proteus faltan algunos componentes ya que no se encontraron sus respectivas librerías, pero se probó en físico y funciona correctamente.
