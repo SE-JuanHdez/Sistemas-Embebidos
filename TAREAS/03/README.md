@@ -1,6 +1,6 @@
 # Tarea Número 03
 ## Proyectos básicos de arduino
-## Códico y simulación
+## Código y simulación
 ### Juan Manuel Hernández Hernández
 
 Creación de códigos y simulación de distintos proyectos por equipo.
